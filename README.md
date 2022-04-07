@@ -31,3 +31,5 @@ yarn dev
 ```
 
 There's other scripts but you shouldn't really need them.
+
+Learn more about cool stuff you can do with a Discord bot here: [Discord.js](https://discordjs.guide/)
